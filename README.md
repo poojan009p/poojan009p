@@ -2,7 +2,7 @@
 
 🚀 Aspiring Data Scientist | Python Developer | Data Enthusiast     
 ---
-How to reach me poojanthummer009@gmail.com
+📧How to reach me poojanthummer009@gmail.com
 ---
 
 ## 💡 About Me
