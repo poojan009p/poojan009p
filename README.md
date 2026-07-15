@@ -48,10 +48,6 @@ Vanity URL name
 ---
 
 ⭐ *“Consistency is more important than perfection.”*
-![](https://komarev.com/ghpvc/?username=poojan009p)
-
----
-![](https://komarev.com/ghpvc/?username=poojan009p&abbreviated=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=poojan009p&base=900)
