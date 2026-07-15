@@ -39,10 +39,9 @@ Here are some of my beginner projects:
 ---
 
 ## 📫 Connect With Me
-- GitHub: [[Your GitHub Link]](https://github.com/poojan009p)
+- GitHub: [[Poojan GitHub Link]](https://github.com/poojan009p)
 - LinkedIn: [www.linkedin.com/in/
 poojan-thummer
-Vanity URL name
 ]
 
 ---
